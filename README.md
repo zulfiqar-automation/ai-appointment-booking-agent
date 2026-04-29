@@ -79,6 +79,9 @@ any day of the week — without a single human involved.**
 **Step 3 — Configure Your Availability**
 **Step 4 — Embed on Your Website**
 ### Environment Variables Needed
+GOOGLE_CALENDAR_API_KEY=your_key_here
+GOOGLE_CALENDAR_ID=your_calendar_id_here
+VOICEFLOW_API_KEY=your_voiceflow_key_here
 
 ---
 
